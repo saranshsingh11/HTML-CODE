@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> FIRST HTML PROJECTS USING DEMANTIC TAGS</title>
+</head>
+<body>
+    <header class="main header">
+        <div class="logo container">
+            <img src="data:image/jpeg;base64,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" alt="DESHBHANDU COLLEGE LOGO">
+            <h3>deshbandhu college student survey form</h3>
+
+            
+
+        </div>
+        <nav class="link container">
+            <a href="about-us.html">about us</a>
+            <a href="contact-us.html">contact us</a>
+            <a href="services.html">services</a>
+            <a href="login.html">login</a>
+        </nav>  
+    </header>  
+    <main>
+        <header>
+            <h2>
+                Deshbandhu college offers most affordable courses
+            </h2>
+        </header>
+        <section>
+            <header>
+                <h3><h3>BSC(HONS) Computer Science | BSc(prog) Life Sciences | BSc(hons) Mathematics</h3></h3>
+            </header>
+            <div>Running Courses for all of them</div>
+            <h4>1st batch, 2nd batch, 3rd batch</h4>
+            <span>At an affordable fees</span>
+        </section>
+    </main>
+    <h3>Fill in this form for more details</h3>
+    <form action="" id="users" method="GET" targer="_blanck">
+     <label type="text" id="first name">First Name:</label>
+     <input type="text" id="username">
+     <br>
+     <label type="text" id="last name">Last Name</label>
+    <input type="text" id="username">
+    <br>
+    <label for="email">Email id:</label>
+    <input type="text" name="email" id="email">
+    <br>
+    <input type="submit" id="submit">
+    </form>
+
+    <footer>
+        <p>JOIN THE COLLEGE</p>
+    </footer>
+</body>
+</html>
